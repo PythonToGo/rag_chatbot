@@ -2,6 +2,10 @@
 
 A Streamlit-based chatbot that uses RAG (Retrieval-Augmented Generation) to answer questions about uploaded PDF documents.
 
+![image](https://github.com/user-attachments/assets/90beed10-6c39-43d0-bbd5-209540a87ad0)
+
+![image](https://github.com/user-attachments/assets/e3deac50-4286-4270-9765-4c1da52a3fa1)
+
 ## Features
 
 - **PDF Upload & Processing**: Upload PDF files and automatically process them for RAG
@@ -122,9 +126,6 @@ The application follows a modular architecture:
 4. Update this README with new features
 
 ## License
+MIT License,
+Copyright PythonToGo 2025.
 
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here] 
