@@ -1,7 +1,10 @@
 # PDF RAG Chatbot
 
+## just for fun; not yet deployed;
+
+
 A Streamlit-based chatbot that uses RAG (Retrieval-Augmented Generation) to answer questions about uploaded PDF documents.
-### Depoloy soon (NOT YET)
+
 
 ![image](https://github.com/user-attachments/assets/90beed10-6c39-43d0-bbd5-209540a87ad0)
 
